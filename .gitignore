@@ -5,6 +5,8 @@
 /djangoapi/project/local_settings.py
 __localcode
 gunicorn-error-log
+.env.prod
+.env.prod.db
 
 
 # Django #
